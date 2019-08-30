@@ -7,7 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringbootdemoApplication {
 
 	public static void main(String[] args) {
-		System.out.println("OKKK ");
+		System.out.println("1 ");
+		System.out.println("2 ");
 		SpringApplication.run(SpringbootdemoApplication.class, args);
 	}
 
